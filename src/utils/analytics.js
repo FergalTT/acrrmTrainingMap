@@ -4,16 +4,19 @@ import mixpanel from 'mixpanel-browser';
 const MIXPANEL_TOKEN = import.meta.env.VITE_MIXPANEL_TOKEN || '160de29a1dcd710d72e76395e7ff969d';
 
 console.log('Initializing Mixpanel with token:', MIXPANEL_TOKEN.substring(0, 8) + '...');
+console.log('Using EU data residency endpoints');
 
 // Initialize Mixpanel on module load
 mixpanel.init(MIXPANEL_TOKEN, {
   debug: true, // Always enable debug mode to see what's happening
   track_pageview: false, // We'll track page views manually
   persistence: 'localStorage', // Use localStorage for persistence
-  ignore_dnt: true // Ignore Do Not Track browser setting for testing
+  ignore_dnt: true, // Ignore Do Not Track browser setting for testing
+  // EU data residency configuration
+  api_host: 'https://api-eu.mixpanel.com'
 });
 
-console.log('Mixpanel initialized successfully');
+console.log('Mixpanel initialized successfully with EU endpoints');
 
 /**
  * Track a custom event
