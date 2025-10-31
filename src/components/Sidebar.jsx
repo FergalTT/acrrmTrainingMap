@@ -241,6 +241,36 @@ const Sidebar = ({ filters, setFilters, sites }) => {
       <div className="stats">
         <p><strong>{filteredSitesCount}</strong> of <strong>{sites.length}</strong> sites displayed</p>
       </div>
+
+      <div className="data-disclaimer">
+        <p>
+          <strong>Note:</strong> Dataset likely incomplete. Entries scraped from{' '}
+          <a
+            href="https://www.acrrm.org.au/fellowship/training-towards-fellowship/discover-training-posts"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ACRRM
+          </a>{' '}
+          listing with{' '}
+          <a
+            href="https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            AST - Anaesthetics
+          </a>{' '}
+          and{' '}
+          <a
+            href="https://ranzcog.edu.au/training/sites"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            AST - O&G
+          </a>{' '}
+          taken from their own sites. If geotagging the entries failed, they may show in the state's capital or be missing from the map.
+        </p>
+      </div>
     </div>
   );
 };
