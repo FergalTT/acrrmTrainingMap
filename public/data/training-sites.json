@@ -1,0 +1,479 @@
+{
+  "trainingSites": [
+    {
+      "id": "qld-bundaberg",
+      "name": "Bundaberg General Hospital",
+      "state": "QLD",
+      "city": "Bundaberg",
+      "lat": -24.8661,
+      "lng": 152.3489,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 4,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Victor Birioukov",
+        "supervisors": ["Dr Daniel Ballantine", "Dr Jo-Anne Mileham"]
+      }
+    },
+    {
+      "id": "qld-caboolture",
+      "name": "Caboolture Hospital",
+      "state": "QLD",
+      "city": "Caboolture",
+      "lat": -27.0833,
+      "lng": 152.9500,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 2,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Ken Eastern",
+        "supervisors": ["Dr Simone Malan-Johnson"]
+      }
+    },
+    {
+      "id": "qld-cairns",
+      "name": "Cairns Base Hospital",
+      "state": "QLD",
+      "city": "Cairns",
+      "lat": -16.9203,
+      "lng": 145.7710,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 3,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr James Sartain",
+        "supervisors": ["Dr Daniel Foster", "Dr Zach Tappenden"]
+      }
+    },
+    {
+      "id": "qld-hervey-bay",
+      "name": "Hervey Bay Hospital",
+      "state": "QLD",
+      "city": "Hervey Bay",
+      "lat": -25.2887,
+      "lng": 152.8275,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 3,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Peter Harvey",
+        "supervisors": ["Dr David Goldsmith", "Dr Frans Mare"]
+      }
+    },
+    {
+      "id": "qld-ipswich",
+      "name": "Ipswich Hospital",
+      "state": "QLD",
+      "city": "Ipswich",
+      "lat": -27.6144,
+      "lng": 152.7575,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 2,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Bipphy Kath",
+        "supervisors": ["Dr James McLean", "Dr Matthew Pavicic"]
+      }
+    },
+    {
+      "id": "qld-logan",
+      "name": "Logan Hospital",
+      "state": "QLD",
+      "city": "Meadowbrook",
+      "lat": -27.6650,
+      "lng": 153.0833,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 2,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Anthony Lentz",
+        "supervisors": ["Dr Amos Moody", "Dr Michael Tetley"]
+      }
+    },
+    {
+      "id": "qld-mackay",
+      "name": "Mackay Base Hospital",
+      "state": "QLD",
+      "city": "Mackay",
+      "lat": -21.1458,
+      "lng": 149.1869,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 4,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Daniel Bartlett",
+        "supervisors": ["Dr Richard Cooper", "Dr Elayne Anderson"]
+      }
+    },
+    {
+      "id": "qld-mount-isa",
+      "name": "Mount Isa Hospital",
+      "state": "QLD",
+      "city": "Mount Isa",
+      "lat": -20.7256,
+      "lng": 139.4927,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 7,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Desire Banda",
+        "supervisors": ["Dr Desire Banda", "Dr Ulrich Orda", "Dr Benjamin Butson"]
+      }
+    },
+    {
+      "id": "qld-brisbane-qch",
+      "name": "Queensland Children's Hospital",
+      "state": "QLD",
+      "city": "Brisbane",
+      "lat": -27.4975,
+      "lng": 153.0281,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics", "AST - Paediatrics"],
+      "rotations": ["Anaesthesia", "Paediatrics"],
+      "mmm": 1,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Fiona MacFarlane",
+        "supervisors": ["Dr Scott Smith", "Dr Christopher Wilde"]
+      }
+    },
+    {
+      "id": "qld-redland",
+      "name": "Redland Hospital",
+      "state": "QLD",
+      "city": "Cleveland",
+      "lat": -27.5275,
+      "lng": 153.2625,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 2,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Matthew Devine",
+        "supervisors": ["Dr Fousia Manthodikulangara", "Dr David Wood"]
+      }
+    },
+    {
+      "id": "qld-rockhampton",
+      "name": "Rockhampton Hospital",
+      "state": "QLD",
+      "city": "Rockhampton",
+      "lat": -23.3781,
+      "lng": 150.5136,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 4,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Adrian Sultana",
+        "supervisors": ["Dr Jennifer Greenwell"]
+      }
+    },
+    {
+      "id": "wa-bunbury",
+      "name": "Bunbury Regional Hospital",
+      "state": "WA",
+      "city": "Bunbury",
+      "lat": -33.3267,
+      "lng": 115.6372,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 3
+    },
+    {
+      "id": "wa-fiona-stanley",
+      "name": "Fiona Stanley Hospital",
+      "state": "WA",
+      "city": "Murdoch",
+      "lat": -32.0444,
+      "lng": 115.8356,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 1
+    },
+    {
+      "id": "wa-geraldton",
+      "name": "Geraldton Regional Hospital",
+      "state": "WA",
+      "city": "Geraldton",
+      "lat": -28.7744,
+      "lng": 114.6144,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 4
+    },
+    {
+      "id": "wa-joondalup",
+      "name": "Joondalup Health Campus",
+      "state": "WA",
+      "city": "Joondalup",
+      "lat": -31.7456,
+      "lng": 115.7661,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 1
+    },
+    {
+      "id": "wa-kalgoorlie",
+      "name": "Kalgoorlie Health Campus",
+      "state": "WA",
+      "city": "Kalgoorlie",
+      "lat": -30.7489,
+      "lng": 121.4658,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 6
+    },
+    {
+      "id": "sa-flinders",
+      "name": "Flinders Medical Centre",
+      "state": "SA",
+      "city": "Bedford Park",
+      "lat": -35.0017,
+      "lng": 138.5683,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 1,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Mark Markou",
+        "supervisors": ["Dr Marni Calvert", "Dr Braden Rivers"]
+      }
+    },
+    {
+      "id": "sa-lyell-mcewin",
+      "name": "Lyell McEwin and Modbury Hospital",
+      "state": "SA",
+      "city": "Elizabeth Vale",
+      "lat": -34.7617,
+      "lng": 138.6881,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 1,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Richard Church",
+        "supervisors": ["Dr Brian Ambrose", "Dr Kirstie Morandell"]
+      }
+    },
+    {
+      "id": "sa-mount-gambier",
+      "name": "Mount Gambier and District Health Service",
+      "state": "SA",
+      "city": "Mount Gambier",
+      "lat": -37.8297,
+      "lng": 140.7822,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 4,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Jayaraman Thiagarajan",
+        "supervisors": ["Dr Melanie Little", "Dr Cecile Van Der Westhuizen"]
+      }
+    },
+    {
+      "id": "sa-queen-elizabeth",
+      "name": "Queen Elizabeth Hospital",
+      "state": "SA",
+      "city": "Woodville",
+      "lat": -34.8686,
+      "lng": 138.5389,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 1,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Tharapriya Ramkumar",
+        "supervisors": ["Dr Christie Moule", "Dr Richard Watts"]
+      }
+    },
+    {
+      "id": "sa-royal-adelaide",
+      "name": "Royal Adelaide Hospital",
+      "state": "SA",
+      "city": "Adelaide",
+      "lat": -34.9200,
+      "lng": 138.6042,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 1,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr James Fowlie",
+        "supervisors": ["Dr Anu Raju", "Dr Cephas Satyanandan"]
+      }
+    },
+    {
+      "id": "sa-whyalla",
+      "name": "Whyalla Hospital and Health Service",
+      "state": "SA",
+      "city": "Whyalla",
+      "lat": -33.0339,
+      "lng": 137.5264,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 5,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Peter Gilchrist",
+        "supervisors": ["Dr Rodney Mitchell"]
+      }
+    },
+    {
+      "id": "tas-launceston",
+      "name": "Launceston General Hospital",
+      "state": "TAS",
+      "city": "Launceston",
+      "lat": -41.4419,
+      "lng": 147.1361,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 3,
+      "status": "Inactive",
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Gregg Best",
+        "supervisors": ["TBC"]
+      }
+    },
+    {
+      "id": "tas-north-west",
+      "name": "North West Regional Hospital",
+      "state": "TAS",
+      "city": "Burnie",
+      "lat": -41.0522,
+      "lng": 145.9147,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 3,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Eric Robinson",
+        "supervisors": ["Dr Peter Dewing", "Dr Gregory Bulman"]
+      }
+    },
+    {
+      "id": "tas-royal-hobart",
+      "name": "Royal Hobart Hospital",
+      "state": "TAS",
+      "city": "Hobart",
+      "lat": -42.8806,
+      "lng": 147.3250,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 2,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Ruth Matters",
+        "supervisors": ["Dr Ranjita Sharma", "Dr Anders Bown"]
+      }
+    },
+    {
+      "id": "nt-alice-springs",
+      "name": "Alice Springs Hospital",
+      "state": "NT",
+      "city": "Alice Springs",
+      "lat": -23.7000,
+      "lng": 133.8800,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 6,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Jacob Koshy",
+        "supervisors": ["Dr Lone Rasmussen", "Dr Kyran Smith"]
+      }
+    },
+    {
+      "id": "nt-royal-darwin",
+      "name": "Royal Darwin Hospital",
+      "state": "NT",
+      "city": "Darwin",
+      "lat": -12.4381,
+      "lng": 130.8411,
+      "type": "Hospital",
+      "trainingTypes": ["AST - Anaesthetics"],
+      "rotations": ["Anaesthesia"],
+      "mmm": 2,
+      "contacts": {
+        "directorOfAnaesthesia": "Dr Sandy Smirk",
+        "supervisors": ["Dr Andrew John Magness", "Dr Justine O'Shea", "Dr Ben Hew"]
+      }
+    },
+    {
+      "id": "tas-burnie-gp",
+      "name": "Bass House Surgery",
+      "state": "TAS",
+      "city": "Burnie",
+      "lat": -41.0522,
+      "lng": 145.9147,
+      "type": "General Practice",
+      "trainingTypes": ["Core Generalist Training"],
+      "rotations": ["Primary Care", "Rural/Remote Practice"],
+      "mmm": 3,
+      "associatedSites": ["North West Private Hospital"]
+    },
+    {
+      "id": "qld-wuchopperen",
+      "name": "Wuchopperen Health Service",
+      "state": "QLD",
+      "city": "Manoora",
+      "lat": -16.9386,
+      "lng": 145.7453,
+      "type": "Aboriginal Medical Service",
+      "trainingTypes": ["Core Generalist Training"],
+      "rotations": ["Primary Care", "Aboriginal and Torres Strait Islander Health"],
+      "mmm": 2
+    },
+    {
+      "id": "nt-miwatj",
+      "name": "Miwatj Health Aboriginal Corporation",
+      "state": "NT",
+      "city": "Yirrkala",
+      "lat": -12.2514,
+      "lng": 136.8881,
+      "type": "Aboriginal Medical Service",
+      "trainingTypes": ["Core Generalist Training", "AST - Aboriginal and Torres Strait Islander Health"],
+      "rotations": ["Primary Care", "Remote Medicine", "Aboriginal and Torres Strait Islander Health"],
+      "mmm": 7,
+      "branchSites": ["Gunyangara", "Nhulunbuy", "Galiwin'ku"]
+    },
+    {
+      "id": "tas-antarctic",
+      "name": "Australian Antarctic Division, Polar Medicine Unit",
+      "state": "TAS",
+      "city": "Kingston",
+      "lat": -42.9803,
+      "lng": 147.3081,
+      "type": "Specialized Service",
+      "trainingTypes": ["AST - Remote Medicine"],
+      "rotations": ["Remote Medicine"],
+      "mmm": 7
+    },
+    {
+      "id": "qld-enoggera",
+      "name": "Enoggera Health Centre",
+      "state": "QLD",
+      "city": "Enoggera",
+      "lat": -27.4253,
+      "lng": 152.9908,
+      "type": "ADF",
+      "trainingTypes": ["Core Generalist Training"],
+      "rotations": ["Primary Care", "Emergency Care"],
+      "mmm": 1
+    }
+  ]
+}
