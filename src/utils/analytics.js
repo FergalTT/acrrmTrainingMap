@@ -6,7 +6,7 @@ const MIXPANEL_TOKEN = import.meta.env.VITE_MIXPANEL_TOKEN || '160de29a1dcd710d7
 // Initialize Mixpanel on module load
 mixpanel.init(MIXPANEL_TOKEN, {
   debug: import.meta.env.DEV, // Enable debug mode in development
-  track_pageview: true, // Automatically track page views
+  track_pageview: false, // We'll track page views manually
   persistence: 'localStorage' // Use localStorage for persistence
 });
 
@@ -16,7 +16,12 @@ mixpanel.init(MIXPANEL_TOKEN, {
  * @param {Object} properties - Additional properties to track with the event
  */
 export const trackEvent = (eventName, properties = {}) => {
-  mixpanel.track(eventName, properties);
+  try {
+    mixpanel.track(eventName, properties);
+    console.log('Mixpanel event tracked:', eventName, properties);
+  } catch (error) {
+    console.error('Error tracking event:', error);
+  }
 };
 
 /**
@@ -25,10 +30,17 @@ export const trackEvent = (eventName, properties = {}) => {
  * @param {Object} properties - Additional properties to track
  */
 export const trackPageView = (pageName, properties = {}) => {
-  mixpanel.track_pageview({
-    page: pageName,
-    ...properties
-  });
+  try {
+    // Use regular track instead of track_pageview for better control
+    mixpanel.track('Page View', {
+      page: pageName,
+      url: window.location.href,
+      ...properties
+    });
+    console.log('Mixpanel page view tracked:', pageName, properties);
+  } catch (error) {
+    console.error('Error tracking page view:', error);
+  }
 };
 
 /**

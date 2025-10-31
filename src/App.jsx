@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Sidebar from './components/Sidebar';
 import MapView from './components/MapView';
-import { trackPageView } from './utils/analytics';
+import { trackPageView, trackEvent } from './utils/analytics';
 import './styles/App.css';
 
 function App() {
@@ -14,6 +14,8 @@ function App() {
   });
 
   useEffect(() => {
+    console.log('App mounted, tracking page view...');
+
     // Track page view on app load
     trackPageView('ACRRM Training Map', {
       userAgent: navigator.userAgent,
@@ -35,8 +37,9 @@ function App() {
         setSites(sitesWithIds);
 
         // Track data load event
-        trackPageView('Data Loaded', {
-          siteCount: sitesWithIds.length
+        trackEvent('Data Loaded', {
+          siteCount: sitesWithIds.length,
+          timestamp: new Date().toISOString()
         });
       })
       .catch(error => console.error('Error loading training sites:', error));
