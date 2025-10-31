@@ -1,0 +1,571 @@
+[
+  {
+    "name": "Bundaberg General Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Caboolture Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -27.0815422,
+    "lng": 152.9637385
+  },
+  {
+    "name": "Cairns Base Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -16.9122515,
+    "lng": 145.7682767
+  },
+  {
+    "name": "Hervey Bay Hospital & Maryborough Hospital (WBHHS)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Ipswich Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -27.6190801,
+    "lng": 152.7583379
+  },
+  {
+    "name": "Logan Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -27.6700316,
+    "lng": 153.141552
+  },
+  {
+    "name": "Mackay Base Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -21.1457323,
+    "lng": 149.1562161
+  },
+  {
+    "name": "Mount Isa Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -20.7304588,
+    "lng": 139.493929
+  },
+  {
+    "name": "Queensland Children's Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -27.4840011,
+    "lng": 153.026536
+  },
+  {
+    "name": "Redland Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -27.5403286,
+    "lng": 153.2519677
+  },
+  {
+    "name": "Rockhampton Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -23.3797187,
+    "lng": 150.4947796
+  },
+  {
+    "name": "Sunshine Coast University Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -26.7469318,
+    "lng": 153.1133025
+  },
+  {
+    "name": "Toowoomba Base Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -27.5694083,
+    "lng": 151.9443098
+  },
+  {
+    "name": "Townsville University Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Bathurst Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -33.4061876,
+    "lng": 149.5722689
+  },
+  {
+    "name": "Belmont Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -33.0243177,
+    "lng": 151.6478705
+  },
+  {
+    "name": "Dubbo Base Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -32.2392681,
+    "lng": 148.6209457
+  },
+  {
+    "name": "Griffith Base Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -34.2820336,
+    "lng": 146.0437973
+  },
+  {
+    "name": "Lismore Base Hospital (Inactive)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Maitland Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -32.7595338,
+    "lng": 151.6050138
+  },
+  {
+    "name": "Manning Base Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -31.9103533,
+    "lng": 152.4549485
+  },
+  {
+    "name": "Orange Health Service",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -33.3164216,
+    "lng": 149.09267
+  },
+  {
+    "name": "Prince of Wales Hospital & Sydney Children's Hospitals NSW",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Shoalhaven Memorial District Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -34.8696458,
+    "lng": 150.5948057
+  },
+  {
+    "name": "Tamworth Rural Referral Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -31.07396,
+    "lng": 150.9250077
+  },
+  {
+    "name": "The Tweed Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -28.1768698,
+    "lng": 153.5455492
+  },
+  {
+    "name": "Wagga Wagga Base Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -35.1189361,
+    "lng": 147.3571982
+  },
+  {
+    "name": "Central Gippsland Health Service",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "VIC",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-vic",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Mildura Base Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "VIC",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-vic",
+    "lat": -34.1862404,
+    "lng": 142.1430567
+  },
+  {
+    "name": "Northern Health Hospital- Kilmore and District Health",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "VIC",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-vic",
+    "city": "Additional Campus",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "University Hospital of Geelong- Portland District Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "VIC",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-vic",
+    "city": "Currently inactive",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "West Gippsland Health Service (Warragul)- Central Gippsland Health Service (Sale)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "VIC",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-vic",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Flinders Medical Centre",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -35.0213895,
+    "lng": 138.5688386
+  },
+  {
+    "name": "Lyell McEwin and Modbury Hospital (NALHN)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Mount Gambier and District Health Service",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Queen Elizabeth Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -34.8838428,
+    "lng": 138.5339281
+  },
+  {
+    "name": "Royal Adelaide Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -34.920603,
+    "lng": 138.5866101
+  },
+  {
+    "name": "Whyalla Hospital and Health Service",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Bunbury Regional Hospital- Busselton Health Campus (Satellite)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "WA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-nsw",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Fiona Stanley Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "WA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-nsw",
+    "city": "Inactive for 2025",
+    "lat": -32.0695563,
+    "lng": 115.8476646
+  },
+  {
+    "name": "Joondalup Health Campus",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "WA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-nsw",
+    "lat": -31.7384365,
+    "lng": 115.7723599
+  },
+  {
+    "name": "Launceston General Hospital (Inactive)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "TAS",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-tas",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "North West Regional Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "TAS",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-tas",
+    "lat": -41.0471017,
+    "lng": 145.88116
+  },
+  {
+    "name": "Royal Hobart Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "TAS",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-tas",
+    "lat": -42.8796014,
+    "lng": 147.3298535
+  },
+  {
+    "name": "Alice Springs Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NT",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-nt",
+    "lat": -23.7058769,
+    "lng": 133.8780113
+  },
+  {
+    "name": "Royal Darwin Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NT",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-nt",
+    "lat": -12.3548594,
+    "lng": 130.8826678
+  }
+]

@@ -20335,5 +20335,1757 @@
     ],
     "lat": -35.2553502,
     "lng": 149.4409044
+  },
+  {
+    "name": "Armidale and New England District Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Auburn District Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Bankstown\u2013Lidcombe Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.9330226,
+    "lng": 151.020809
+  },
+  {
+    "name": "Bathurst Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.4061876,
+    "lng": 149.5722689
+  },
+  {
+    "name": "Bega District Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -36.689748,
+    "lng": 149.8581487
+  },
+  {
+    "name": "Blacktown Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.7758881,
+    "lng": 150.9171174
+  },
+  {
+    "name": "Bowral District Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -34.4847913,
+    "lng": 150.4237947
+  },
+  {
+    "name": "Broken Hill Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -31.9476226,
+    "lng": 141.4543101
+  },
+  {
+    "name": "Camden District Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -34.0624779,
+    "lng": 150.6936107
+  },
+  {
+    "name": "Canberra Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -35.3465173,
+    "lng": 149.1013881
+  },
+  {
+    "name": "Canterbury Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.9194351,
+    "lng": 151.0983406
+  },
+  {
+    "name": "Coffs Harbour Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -30.3178759,
+    "lng": 153.094428
+  },
+  {
+    "name": "Fairfield District Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Gosford District Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Griffiths Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Hornsby and Ku-Ring-Gai Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "John Hunter Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -32.920882,
+    "lng": 151.6919486
+  },
+  {
+    "name": "Liverpool Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.9202595,
+    "lng": 150.9306789
+  },
+  {
+    "name": "Maitland Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -32.7595338,
+    "lng": 151.6050138
+  },
+  {
+    "name": "Manning Base Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -31.9103533,
+    "lng": 152.4549485
+  },
+  {
+    "name": "Moruya Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -35.9041366,
+    "lng": 150.0704462
+  },
+  {
+    "name": "Nepean District Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Northern Beaches Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.7508223,
+    "lng": 151.2327588
+  },
+  {
+    "name": "Orange Base Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Queanbeyan Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -35.3481135,
+    "lng": 149.2326009
+  },
+  {
+    "name": "Royal Hospital for Women",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Royal North Shore Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.8214322,
+    "lng": 151.1911201
+  },
+  {
+    "name": "Royal Prince Alfred Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.889186,
+    "lng": 151.181472
+  },
+  {
+    "name": "Ryde Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.7955884,
+    "lng": 151.0895931
+  },
+  {
+    "name": "Shoalhaven District Memorial Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -34.8696458,
+    "lng": 150.5948057
+  },
+  {
+    "name": "Sutherland Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -34.0375634,
+    "lng": 151.1147391
+  },
+  {
+    "name": "Tamworth Base Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -31.07396,
+    "lng": 150.9250077
+  },
+  {
+    "name": "Tweed Heads District Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Westmead Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.8027875,
+    "lng": 150.9870903
+  },
+  {
+    "name": "Wollongong/Port Kembla Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Atherton Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -17.2664204,
+    "lng": 145.4834837
+  },
+  {
+    "name": "Bundaberg General Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Dalby Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -27.1666436,
+    "lng": 151.2786777
+  },
+  {
+    "name": "Gladstone Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -23.8501066,
+    "lng": 151.248681
+  },
+  {
+    "name": "Gold Coast Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -27.959679,
+    "lng": 153.3817841
+  },
+  {
+    "name": "Gympie Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -26.1846461,
+    "lng": 152.6589785
+  },
+  {
+    "name": "Ipswich General Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Kingaroy Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -26.5315292,
+    "lng": 151.8386564
+  },
+  {
+    "name": "Maryborough Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.5218403,
+    "lng": 152.6906452
+  },
+  {
+    "name": "Mater Mothers\u2019 Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -27.4857493,
+    "lng": 153.0277974
+  },
+  {
+    "name": "Mt Isa Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -20.7304588,
+    "lng": 139.493929
+  },
+  {
+    "name": "Redcliffe Hospital (with Caboolture Hospital)",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Redland Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -27.5403286,
+    "lng": 153.2519677
+  },
+  {
+    "name": "Rockhampton Base Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -23.3797187,
+    "lng": 150.4947796
+  },
+  {
+    "name": "Roma Hospital (with Toowoomba Hospital)",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Royal Brisbane and Women\u2019s Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -27.4477301,
+    "lng": 153.0268109
+  },
+  {
+    "name": "Stanthorpe Health Service",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Toowoomba Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -27.5694083,
+    "lng": 151.9443098
+  },
+  {
+    "name": "Townsville Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -19.3206549,
+    "lng": 146.7615341
+  },
+  {
+    "name": "Warwick Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -28.2243987,
+    "lng": 152.0174371
+  },
+  {
+    "name": "Gawler Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -34.5934073,
+    "lng": 138.7550434
+  },
+  {
+    "name": "Katherine Base Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Lyell McEwin Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -34.7476199,
+    "lng": 138.6642909
+  },
+  {
+    "name": "Mount Barker District Soldiers\u2019 Memorial Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -35.081775,
+    "lng": 138.8702132
+  },
+  {
+    "name": "Mt Gambier Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.8052532,
+    "lng": 140.7869063
+  },
+  {
+    "name": "Murray Bridge Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -35.1296412,
+    "lng": 139.280709
+  },
+  {
+    "name": "Naracoorte Health Service (with Kincraig Medical Centre)",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Port Augusta Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -32.5099144,
+    "lng": 137.7758575
+  },
+  {
+    "name": "Port Lincoln Hospital and Health Service",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -34.7239106,
+    "lng": 135.8502397
+  },
+  {
+    "name": "Wallaroo Hospital (Kadina Medical Associates)",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Women\u2019s and Children\u2019s Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -34.9188281,
+    "lng": 138.5824858
+  },
+  {
+    "name": "Mersey Community Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -41.2291071,
+    "lng": 146.4225945
+  },
+  {
+    "name": "North West Regional Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -41.0471017,
+    "lng": 145.88116
+  },
+  {
+    "name": "Angliss Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.8989873,
+    "lng": 145.3144114
+  },
+  {
+    "name": "Bacchus Marsh Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.6779418,
+    "lng": 144.4335569
+  },
+  {
+    "name": "Ballarat Base Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.5592659,
+    "lng": 143.8465183
+  },
+  {
+    "name": "Bairnsdale Regional Health Service (including Macleod Street Medical Centre)",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Bass Coast Regional Health",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Bendigo Northern District Base Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Box Hill Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.8136145,
+    "lng": 145.1184053
+  },
+  {
+    "name": "Casey Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -38.0449646,
+    "lng": 145.347666
+  },
+  {
+    "name": "Dandenong and District Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Frankston Hospital (Mornington Peninsula)",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Geelong Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -38.1520799,
+    "lng": 144.3656095
+  },
+  {
+    "name": "Goulburn Valley Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -36.3634261,
+    "lng": 145.4046573
+  },
+  {
+    "name": "Joan Kirner Women\u2019s and Children\u2019s Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.7591893,
+    "lng": 144.8174906
+  },
+  {
+    "name": "Latrobe Regional Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -38.219522,
+    "lng": 146.471782
+  },
+  {
+    "name": "Mercy Hospital for Women",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.7558954,
+    "lng": 145.0609462
+  },
+  {
+    "name": "Mildura Base Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -34.1862404,
+    "lng": 142.1430567
+  },
+  {
+    "name": "Monash Medical Centre",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.920885,
+    "lng": 145.1207155
+  },
+  {
+    "name": "Moorabbin Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.9209721,
+    "lng": 145.0639082
+  },
+  {
+    "name": "Northern Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.6522218,
+    "lng": 145.0155921
+  },
+  {
+    "name": "Peninsula Health",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.9272744,
+    "lng": 137.6364972
+  },
+  {
+    "name": "Royal Women\u2019s Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.7988627,
+    "lng": 144.9549998
+  },
+  {
+    "name": "Sandringham and District Memorial Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Swan Hill Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -35.340599,
+    "lng": 143.5562701
+  },
+  {
+    "name": "Werribee Mercy Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.8871281,
+    "lng": 144.697714
+  },
+  {
+    "name": "Warrnambool Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -38.3711198,
+    "lng": 142.4792513
+  },
+  {
+    "name": "West Gippsland Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -38.1738972,
+    "lng": 145.9280629
+  },
+  {
+    "name": "Western Hospital Sunshine",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Wimmera Base Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -36.7126078,
+    "lng": 142.208892
+  },
+  {
+    "name": "Wodonga Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -36.0756588,
+    "lng": 146.8833212
+  },
+  {
+    "name": "Albany Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -35.0037016,
+    "lng": 117.9048369
+  },
+  {
+    "name": "Broome Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -17.9606348,
+    "lng": 122.2365312
+  },
+  {
+    "name": "Geraldton Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -28.7829608,
+    "lng": 114.6112926
+  },
+  {
+    "name": "Joondalup Health Care Campus",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "King Edward Memorial Hospital for Women",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Osborne Park Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -31.8869471,
+    "lng": 115.8038022
+  },
+  {
+    "name": "Peel Health Campus",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -32.5329543,
+    "lng": 115.7646451
+  },
+  {
+    "name": "St John of God Public and Private Hospitals",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Christchurch Women\u2019s Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Dunedin Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Hutt Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -35.125008,
+    "lng": 138.52388
+  },
+  {
+    "name": "Canberra",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -35.2975906,
+    "lng": 149.1012676
+  },
+  {
+    "name": "Nepean Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.7599321,
+    "lng": 150.7134912
+  },
+  {
+    "name": "Northern Sydney",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.794049,
+    "lng": 151.2656118
+  },
+  {
+    "name": "Rural ITP Dubbo",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Rural ITP Orange",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Western Sydney",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.749723,
+    "lng": 150.6693935
+  },
+  {
+    "name": "Mater Mother\u2019s Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -27.4857493,
+    "lng": 153.0277974
+  },
+  {
+    "name": "South Australia/Northern Territory",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Tasmania",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -42.035067,
+    "lng": 146.6366887
+  },
+  {
+    "name": "Monash Health",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.9529402,
+    "lng": 145.1511753
+  },
+  {
+    "name": "The Royal Women\u2019s Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Eastern Health/Monash Health",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Western Health",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.5550249,
+    "lng": 150.6650672
+  },
+  {
+    "name": "Northern Hospital/Mercy Hospital for Women",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Bendigo RITP",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Western VIC RITP",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "King Edward Memorial Hospital",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -31.9494293,
+    "lng": 115.8184994
+  },
+  {
+    "name": "Fiona Stanley Hospital ITP commencing 2026",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Northern",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -19.8516101,
+    "lng": 133.2303375
+  },
+  {
+    "name": "Central",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -33.8839907,
+    "lng": 151.2063423
+  },
+  {
+    "name": "Southern",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -37.8203374,
+    "lng": 144.9846468
+  },
+  {
+    "name": "New South Wales",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -31.8759835,
+    "lng": 147.2869493
+  },
+  {
+    "name": "Queensland",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -22.1646782,
+    "lng": 144.5844903
+  },
+  {
+    "name": "South Australia",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -30.5343665,
+    "lng": 135.6301212
+  },
+  {
+    "name": "Victoria",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -36.5986096,
+    "lng": 144.6780052
+  },
+  {
+    "name": "Western Australia",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -25.2303005,
+    "lng": 121.0187246
+  },
+  {
+    "name": "Aotearoa New Zealand",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -35.3018952,
+    "lng": 149.1245644
+  },
+  {
+    "name": "Australian Capital Territory",
+    "source": "RANZCOG",
+    "trainingTypes": [
+      "AST - O&G"
+    ],
+    "type": "Hospital",
+    "sourceUrl": "https://ranzcog.edu.au/training/sites/",
+    "lat": -35.4883502,
+    "lng": 149.0026942
+  },
+  {
+    "name": "Hervey Bay Hospital & Maryborough Hospital (WBHHS)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Mount Isa Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -20.7304588,
+    "lng": 139.493929
+  },
+  {
+    "name": "Queensland Children's Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -27.4840011,
+    "lng": 153.026536
+  },
+  {
+    "name": "Griffith Base Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -34.2820336,
+    "lng": 146.0437973
+  },
+  {
+    "name": "Lismore Base Hospital (Inactive)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Prince of Wales Hospital & Sydney Children's Hospitals NSW",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Shoalhaven Memorial District Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -34.8696458,
+    "lng": 150.5948057
+  },
+  {
+    "name": "The Tweed Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -28.1768698,
+    "lng": 153.5455492
+  },
+  {
+    "name": "Northern Health Hospital- Kilmore and District Health",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "VIC",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-vic",
+    "city": "Additional Campus",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "University Hospital of Geelong- Portland District Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "VIC",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-vic",
+    "city": "Currently inactive",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "West Gippsland Health Service (Warragul)- Central Gippsland Health Service (Sale)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "VIC",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-vic",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Lyell McEwin and Modbury Hospital (NALHN)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Mount Gambier and District Health Service",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Queen Elizabeth Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -34.8838428,
+    "lng": 138.5339281
+  },
+  {
+    "name": "Royal Adelaide Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -34.920603,
+    "lng": 138.5866101
+  },
+  {
+    "name": "Bunbury Regional Hospital- Busselton Health Campus (Satellite)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "WA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-nsw",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Launceston General Hospital (Inactive)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "TAS",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-tas",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
   }
 ]

@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { trackFilterUsage } from '../utils/analytics';
 
 const Sidebar = ({ filters, setFilters, sites }) => {
   // State to track which filter sections are collapsed
@@ -10,12 +11,19 @@ const Sidebar = ({ filters, setFilters, sites }) => {
   });
 
   const handleFilterChange = (category, value) => {
-    setFilters(prev => ({
-      ...prev,
-      [category]: prev[category].includes(value)
-        ? prev[category].filter(item => item !== value)
-        : [...prev[category], value]
-    }));
+    setFilters(prev => {
+      const newFilters = {
+        ...prev,
+        [category]: prev[category].includes(value)
+          ? prev[category].filter(item => item !== value)
+          : [...prev[category], value]
+      };
+
+      // Track filter usage
+      trackFilterUsage(category, newFilters[category]);
+
+      return newFilters;
+    });
   };
 
   const handleSelectAll = (category, options) => {
