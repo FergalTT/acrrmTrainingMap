@@ -14,7 +14,9 @@ function App() {
 
   useEffect(() => {
     // Load training sites data - now using full dataset with 921+ sites
-    fetch('/data/training-sites-full.json')
+    // Use import.meta.env.BASE_URL to work with both dev and GitHub Pages
+    const basePath = import.meta.env.BASE_URL;
+    fetch(`${basePath}data/training-sites-full.json`)
       .then(response => response.json())
       .then(data => {
         // Data is already an array, not nested under trainingSites
