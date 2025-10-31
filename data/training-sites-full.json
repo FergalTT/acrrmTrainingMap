@@ -20340,9 +20340,7 @@
     "name": "Armidale and New England District Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20354,9 +20352,7 @@
     "name": "Auburn District Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20368,9 +20364,7 @@
     "name": "Bankstown\u2013Lidcombe Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20381,9 +20375,7 @@
     "name": "Bathurst Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20394,8 +20386,7 @@
     "name": "Bega District Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20406,9 +20397,7 @@
     "name": "Blacktown Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20419,9 +20408,7 @@
     "name": "Bowral District Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20432,9 +20419,7 @@
     "name": "Broken Hill Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20445,8 +20430,7 @@
     "name": "Camden District Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20457,9 +20441,7 @@
     "name": "Canberra Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20470,8 +20452,7 @@
     "name": "Canterbury Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20482,9 +20463,7 @@
     "name": "Coffs Harbour Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20495,9 +20474,7 @@
     "name": "Fairfield District Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20509,9 +20486,7 @@
     "name": "Gosford District Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20523,9 +20498,7 @@
     "name": "Griffiths Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20537,9 +20510,7 @@
     "name": "Hornsby and Ku-Ring-Gai Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20551,9 +20522,7 @@
     "name": "John Hunter Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20564,9 +20533,7 @@
     "name": "Liverpool Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20577,9 +20544,7 @@
     "name": "Maitland Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20590,9 +20555,7 @@
     "name": "Manning Base Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20603,9 +20566,7 @@
     "name": "Moruya Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20616,9 +20577,7 @@
     "name": "Nepean District Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20630,9 +20589,7 @@
     "name": "Northern Beaches Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20643,9 +20600,7 @@
     "name": "Orange Base Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20657,9 +20612,7 @@
     "name": "Queanbeyan Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20670,8 +20623,7 @@
     "name": "Royal Hospital for Women",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20683,9 +20635,7 @@
     "name": "Royal North Shore Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20696,7 +20646,7 @@
     "name": "Royal Prince Alfred Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20707,8 +20657,7 @@
     "name": "Ryde Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20719,9 +20668,7 @@
     "name": "Shoalhaven District Memorial Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20732,9 +20679,7 @@
     "name": "Sutherland Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20745,9 +20690,7 @@
     "name": "Tamworth Base Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20758,9 +20701,7 @@
     "name": "Tweed Heads District Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20772,9 +20713,7 @@
     "name": "Westmead Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20785,9 +20724,7 @@
     "name": "Wollongong/Port Kembla Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20799,8 +20736,7 @@
     "name": "Atherton Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20811,9 +20747,7 @@
     "name": "Bundaberg General Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20825,9 +20759,7 @@
     "name": "Dalby Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20838,9 +20770,7 @@
     "name": "Gladstone Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20851,9 +20781,7 @@
     "name": "Gold Coast Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20864,9 +20792,7 @@
     "name": "Gympie Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20877,9 +20803,7 @@
     "name": "Ipswich General Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20891,8 +20815,7 @@
     "name": "Kingaroy Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20903,8 +20826,7 @@
     "name": "Maryborough Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20915,9 +20837,7 @@
     "name": "Mater Mothers\u2019 Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20928,9 +20848,7 @@
     "name": "Mt Isa Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20941,9 +20859,7 @@
     "name": "Redcliffe Hospital (with Caboolture Hospital)",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20955,9 +20871,7 @@
     "name": "Redland Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20968,9 +20882,7 @@
     "name": "Rockhampton Base Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20981,8 +20893,7 @@
     "name": "Roma Hospital (with Toowoomba Hospital)",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -20994,9 +20905,7 @@
     "name": "Royal Brisbane and Women\u2019s Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21007,7 +20916,7 @@
     "name": "Stanthorpe Health Service",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21019,9 +20928,7 @@
     "name": "Toowoomba Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21032,9 +20939,7 @@
     "name": "Townsville Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21045,9 +20950,7 @@
     "name": "Warwick Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21058,9 +20961,7 @@
     "name": "Gawler Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21071,8 +20972,7 @@
     "name": "Katherine Base Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21084,9 +20984,7 @@
     "name": "Lyell McEwin Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21097,9 +20995,7 @@
     "name": "Mount Barker District Soldiers\u2019 Memorial Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21110,9 +21006,7 @@
     "name": "Mt Gambier Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21123,8 +21017,7 @@
     "name": "Murray Bridge Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21135,8 +21028,7 @@
     "name": "Naracoorte Health Service (with Kincraig Medical Centre)",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21148,9 +21040,7 @@
     "name": "Port Augusta Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21161,9 +21051,7 @@
     "name": "Port Lincoln Hospital and Health Service",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21174,8 +21062,7 @@
     "name": "Wallaroo Hospital (Kadina Medical Associates)",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21187,9 +21074,7 @@
     "name": "Women\u2019s and Children\u2019s Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21200,8 +21085,7 @@
     "name": "Mersey Community Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21212,9 +21096,7 @@
     "name": "North West Regional Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21225,9 +21107,7 @@
     "name": "Angliss Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21238,9 +21118,7 @@
     "name": "Bacchus Marsh Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21251,9 +21129,7 @@
     "name": "Ballarat Base Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21264,9 +21140,7 @@
     "name": "Bairnsdale Regional Health Service (including Macleod Street Medical Centre)",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21278,8 +21152,7 @@
     "name": "Bass Coast Regional Health",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21291,9 +21164,7 @@
     "name": "Bendigo Northern District Base Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21305,8 +21176,7 @@
     "name": "Box Hill Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21317,9 +21187,7 @@
     "name": "Casey Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21330,9 +21198,7 @@
     "name": "Dandenong and District Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21344,8 +21210,7 @@
     "name": "Frankston Hospital (Mornington Peninsula)",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21357,9 +21222,7 @@
     "name": "Geelong Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21370,9 +21233,7 @@
     "name": "Goulburn Valley Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21383,7 +21244,7 @@
     "name": "Joan Kirner Women\u2019s and Children\u2019s Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21394,9 +21255,7 @@
     "name": "Latrobe Regional Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21407,8 +21266,7 @@
     "name": "Mercy Hospital for Women",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21419,9 +21277,7 @@
     "name": "Mildura Base Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21432,9 +21288,7 @@
     "name": "Monash Medical Centre",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21445,9 +21299,7 @@
     "name": "Moorabbin Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21458,9 +21310,7 @@
     "name": "Northern Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21471,9 +21321,7 @@
     "name": "Peninsula Health",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21484,8 +21332,7 @@
     "name": "Royal Women\u2019s Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21496,9 +21343,7 @@
     "name": "Sandringham and District Memorial Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21510,8 +21355,7 @@
     "name": "Swan Hill Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21522,8 +21366,7 @@
     "name": "Werribee Mercy Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21534,9 +21377,7 @@
     "name": "Warrnambool Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21547,9 +21388,7 @@
     "name": "West Gippsland Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21560,9 +21399,7 @@
     "name": "Western Hospital Sunshine",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21574,8 +21411,7 @@
     "name": "Wimmera Base Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21586,9 +21422,7 @@
     "name": "Wodonga Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21599,9 +21433,7 @@
     "name": "Albany Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21612,9 +21444,7 @@
     "name": "Broome Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21625,9 +21455,7 @@
     "name": "Geraldton Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21638,9 +21466,7 @@
     "name": "Joondalup Health Care Campus",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21652,9 +21478,7 @@
     "name": "King Edward Memorial Hospital for Women",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21666,9 +21490,7 @@
     "name": "Osborne Park Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21679,8 +21501,7 @@
     "name": "Peel Health Campus",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21691,9 +21512,7 @@
     "name": "St John of God Public and Private Hospitals",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21705,8 +21524,7 @@
     "name": "Christchurch Women\u2019s Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21718,9 +21536,7 @@
     "name": "Dunedin Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)",
-      "Practical Training Programme (PTP)",
-      "Advanced Practical Training Programme (APTP)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21732,7 +21548,7 @@
     "name": "Hutt Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "Core Women's Health (CWH)"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21743,7 +21559,7 @@
     "name": "Canberra",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21754,7 +21570,7 @@
     "name": "Nepean Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21765,7 +21581,7 @@
     "name": "Northern Sydney",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21776,7 +21592,7 @@
     "name": "Rural ITP Dubbo",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21788,7 +21604,7 @@
     "name": "Rural ITP Orange",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21800,7 +21616,7 @@
     "name": "Western Sydney",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21811,7 +21627,7 @@
     "name": "Mater Mother\u2019s Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21822,7 +21638,7 @@
     "name": "South Australia/Northern Territory",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21834,7 +21650,7 @@
     "name": "Tasmania",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21845,7 +21661,7 @@
     "name": "Monash Health",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21856,7 +21672,7 @@
     "name": "The Royal Women\u2019s Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21868,7 +21684,7 @@
     "name": "Eastern Health/Monash Health",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21880,7 +21696,7 @@
     "name": "Western Health",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21891,7 +21707,7 @@
     "name": "Northern Hospital/Mercy Hospital for Women",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21903,7 +21719,7 @@
     "name": "Bendigo RITP",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21915,7 +21731,7 @@
     "name": "Western VIC RITP",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21927,7 +21743,7 @@
     "name": "King Edward Memorial Hospital",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21938,7 +21754,7 @@
     "name": "Fiona Stanley Hospital ITP commencing 2026",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21950,7 +21766,7 @@
     "name": "Northern",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21961,7 +21777,7 @@
     "name": "Central",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21972,7 +21788,7 @@
     "name": "Southern",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21983,7 +21799,7 @@
     "name": "New South Wales",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -21994,7 +21810,7 @@
     "name": "Queensland",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -22005,7 +21821,7 @@
     "name": "South Australia",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -22016,7 +21832,7 @@
     "name": "Victoria",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -22027,7 +21843,7 @@
     "name": "Western Australia",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -22038,7 +21854,7 @@
     "name": "Aotearoa New Zealand",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
@@ -22049,11 +21865,227 @@
     "name": "Australian Capital Territory",
     "source": "RANZCOG",
     "trainingTypes": [
-      "O&G Training"
+      "AST - O&G"
     ],
     "type": "Hospital",
     "sourceUrl": "https://ranzcog.edu.au/training/sites/",
     "lat": -35.4883502,
     "lng": 149.0026942
+  },
+  {
+    "name": "Hervey Bay Hospital & Maryborough Hospital (WBHHS)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Mount Isa Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -20.7304588,
+    "lng": 139.493929
+  },
+  {
+    "name": "Queensland Children's Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "QLD",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-qld",
+    "lat": -27.4840011,
+    "lng": 153.026536
+  },
+  {
+    "name": "Griffith Base Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -34.2820336,
+    "lng": 146.0437973
+  },
+  {
+    "name": "Lismore Base Hospital (Inactive)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Prince of Wales Hospital & Sydney Children's Hospitals NSW",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Shoalhaven Memorial District Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -34.8696458,
+    "lng": 150.5948057
+  },
+  {
+    "name": "The Tweed Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "NSW",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-anaesthesia-training-sites-act",
+    "lat": -28.1768698,
+    "lng": 153.5455492
+  },
+  {
+    "name": "Northern Health Hospital- Kilmore and District Health",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "VIC",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-vic",
+    "city": "Additional Campus",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "University Hospital of Geelong- Portland District Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "VIC",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-vic",
+    "city": "Currently inactive",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "West Gippsland Health Service (Warragul)- Central Gippsland Health Service (Sale)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "VIC",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-vic",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Lyell McEwin and Modbury Hospital (NALHN)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Mount Gambier and District Health Service",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Queen Elizabeth Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -34.8838428,
+    "lng": 138.5339281
+  },
+  {
+    "name": "Royal Adelaide Hospital",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "SA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-sa",
+    "lat": -34.920603,
+    "lng": 138.5866101
+  },
+  {
+    "name": "Bunbury Regional Hospital- Busselton Health Campus (Satellite)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "WA",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-nsw",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
+  },
+  {
+    "name": "Launceston General Hospital (Inactive)",
+    "source": "ANZCA",
+    "trainingTypes": [
+      "AST - Anaesthetics"
+    ],
+    "type": "Hospital",
+    "state": "TAS",
+    "sourceUrl": "https://www.anzca.edu.au/education-and-training/anaesthesia-training-and-pathways/rural-generalist-anaesthesia-training-program/rural-generalist-anaesthesia-training-sites/rga-accredited-training-sites-tas",
+    "lat": -25.2744,
+    "lng": 133.7751,
+    "geocoding_failed": true
   }
 ]
