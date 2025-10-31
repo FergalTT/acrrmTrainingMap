@@ -3,12 +3,17 @@ import mixpanel from 'mixpanel-browser';
 // Initialize Mixpanel
 const MIXPANEL_TOKEN = import.meta.env.VITE_MIXPANEL_TOKEN || '160de29a1dcd710d72e76395e7ff969d';
 
+console.log('Initializing Mixpanel with token:', MIXPANEL_TOKEN.substring(0, 8) + '...');
+
 // Initialize Mixpanel on module load
 mixpanel.init(MIXPANEL_TOKEN, {
-  debug: import.meta.env.DEV, // Enable debug mode in development
+  debug: true, // Always enable debug mode to see what's happening
   track_pageview: false, // We'll track page views manually
-  persistence: 'localStorage' // Use localStorage for persistence
+  persistence: 'localStorage', // Use localStorage for persistence
+  ignore_dnt: true // Ignore Do Not Track browser setting for testing
 });
+
+console.log('Mixpanel initialized successfully');
 
 /**
  * Track a custom event
@@ -83,5 +88,29 @@ export const trackMapInteraction = (interactionType, details = {}) => {
     ...details
   });
 };
+
+/**
+ * Test function to verify Mixpanel is working
+ * Call this from browser console: window.testMixpanel()
+ */
+export const testMixpanel = () => {
+  console.log('Testing Mixpanel...');
+  console.log('Token:', MIXPANEL_TOKEN.substring(0, 8) + '...');
+  console.log('Mixpanel config:', mixpanel.get_config());
+
+  trackEvent('Test Event', {
+    source: 'manual_test',
+    timestamp: new Date().toISOString()
+  });
+
+  console.log('Test event sent! Check your Mixpanel dashboard in a few moments.');
+  console.log('Note: It may take 1-2 minutes for events to appear in Mixpanel.');
+};
+
+// Expose test function globally for console access
+if (typeof window !== 'undefined') {
+  window.testMixpanel = testMixpanel;
+  window.mixpanelDebug = mixpanel;
+}
 
 export default mixpanel;
