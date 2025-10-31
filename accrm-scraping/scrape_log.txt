@@ -1,0 +1,199 @@
+/Users/fergaltemple/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+ACRRM Training Posts Scraper
+==================================================
+Starting scrape of 1174 posts across 118 pages...
+Fetching page 1/118... Found 10 posts
+Fetching page 2/118... Found 10 posts
+Fetching page 3/118... Found 10 posts
+Fetching page 4/118... Found 10 posts
+Fetching page 5/118... Found 10 posts
+Fetching page 6/118... Found 10 posts
+Fetching page 7/118... Found 10 posts
+Fetching page 8/118... Found 10 posts
+Fetching page 9/118... Found 10 posts
+Fetching page 10/118... Found 10 posts
+Progress: 100 posts collected so far...
+Fetching page 11/118... Found 10 posts
+Fetching page 12/118... Found 10 posts
+Fetching page 13/118... Found 10 posts
+Fetching page 14/118... Found 10 posts
+Fetching page 15/118... Found 10 posts
+Fetching page 16/118... Found 10 posts
+Fetching page 17/118... Found 10 posts
+Fetching page 18/118... Found 10 posts
+Fetching page 19/118... Found 10 posts
+Fetching page 20/118... Found 10 posts
+Progress: 200 posts collected so far...
+Fetching page 21/118... Found 10 posts
+Fetching page 22/118... Found 10 posts
+Fetching page 23/118... Found 10 posts
+Fetching page 24/118... Found 10 posts
+Fetching page 25/118... Found 10 posts
+Fetching page 26/118... Found 10 posts
+Fetching page 27/118... Found 10 posts
+Fetching page 28/118... Found 10 posts
+Fetching page 29/118... Found 10 posts
+Fetching page 30/118... Found 10 posts
+Progress: 300 posts collected so far...
+Fetching page 31/118... Found 10 posts
+Fetching page 32/118... Found 10 posts
+Fetching page 33/118... Found 10 posts
+Fetching page 34/118... Found 10 posts
+Fetching page 35/118... Found 10 posts
+Fetching page 36/118... Found 10 posts
+Fetching page 37/118... Found 10 posts
+Fetching page 38/118... Found 10 posts
+Fetching page 39/118... Found 10 posts
+Fetching page 40/118... Found 10 posts
+Progress: 400 posts collected so far...
+Fetching page 41/118... Found 10 posts
+Fetching page 42/118... Found 10 posts
+Fetching page 43/118... Found 10 posts
+Fetching page 44/118... Found 10 posts
+Fetching page 45/118... Found 10 posts
+Fetching page 46/118... Found 10 posts
+Fetching page 47/118... Found 10 posts
+Fetching page 48/118... Found 10 posts
+Fetching page 49/118... Found 10 posts
+Fetching page 50/118... Found 10 posts
+Progress: 500 posts collected so far...
+Fetching page 51/118... Found 10 posts
+Fetching page 52/118... Found 10 posts
+Fetching page 53/118... Found 10 posts
+Fetching page 54/118... Found 10 posts
+Fetching page 55/118... Found 10 posts
+Fetching page 56/118... Found 10 posts
+Fetching page 57/118... Found 10 posts
+Fetching page 58/118... Found 10 posts
+Fetching page 59/118... Found 10 posts
+Fetching page 60/118... Found 10 posts
+Progress: 600 posts collected so far...
+Fetching page 61/118... Found 10 posts
+Fetching page 62/118... Found 10 posts
+Fetching page 63/118... Found 10 posts
+Fetching page 64/118... Found 10 posts
+Fetching page 65/118... Found 10 posts
+Fetching page 66/118... Found 10 posts
+Fetching page 67/118... Found 10 posts
+Fetching page 68/118... Found 10 posts
+Fetching page 69/118... Found 10 posts
+Fetching page 70/118... Found 10 posts
+Progress: 700 posts collected so far...
+Fetching page 71/118... Found 10 posts
+Fetching page 72/118... Found 10 posts
+Fetching page 73/118... Found 10 posts
+Fetching page 74/118... Found 10 posts
+Fetching page 75/118... Found 10 posts
+Fetching page 76/118... Found 10 posts
+Fetching page 77/118... Found 10 posts
+Fetching page 78/118... Found 10 posts
+Fetching page 79/118... Found 10 posts
+Fetching page 80/118... Found 10 posts
+Progress: 800 posts collected so far...
+Fetching page 81/118... Found 10 posts
+Fetching page 82/118... Found 10 posts
+Fetching page 83/118... Found 10 posts
+Fetching page 84/118... Found 10 posts
+Fetching page 85/118... Found 10 posts
+Fetching page 86/118... Found 10 posts
+Fetching page 87/118... Found 10 posts
+Fetching page 88/118... Found 10 posts
+Fetching page 89/118... Found 10 posts
+Fetching page 90/118... Found 10 posts
+Progress: 900 posts collected so far...
+Fetching page 91/118... Found 10 posts
+Fetching page 92/118... Found 10 posts
+Fetching page 93/118... Found 10 posts
+Fetching page 94/118... Found 10 posts
+Fetching page 95/118... Found 10 posts
+Fetching page 96/118... Found 10 posts
+Fetching page 97/118... Found 10 posts
+Fetching page 98/118... Found 10 posts
+Fetching page 99/118... Found 10 posts
+Fetching page 100/118... Found 10 posts
+Progress: 1000 posts collected so far...
+Fetching page 101/118... Found 10 posts
+Fetching page 102/118... Found 10 posts
+Fetching page 103/118... Found 10 posts
+Fetching page 104/118... Found 10 posts
+Fetching page 105/118... Found 10 posts
+Fetching page 106/118... Found 10 posts
+Fetching page 107/118... Found 10 posts
+Fetching page 108/118... Found 10 posts
+Fetching page 109/118... Found 10 posts
+Fetching page 110/118... Found 10 posts
+Progress: 1100 posts collected so far...
+Fetching page 111/118... Found 10 posts
+Fetching page 112/118... Found 10 posts
+Fetching page 113/118... Found 10 posts
+Fetching page 114/118... Found 10 posts
+Fetching page 115/118... Found 10 posts
+Fetching page 116/118... Found 10 posts
+Fetching page 117/118... Found 10 posts
+Fetching page 118/118... Found 4 posts
+
+Scraping complete! Collected 1174 posts
+Removed 253 duplicate posts
+Data saved to /Users/fergaltemple/acrrm-all-sites.json
+
+==================================================
+Summary:
+Total posts collected: 921
+
+By State:
+  NSW: 272
+  NT: 70
+  QLD: 240
+  SA: 68
+  TAS: 51
+  VIC: 126
+  WA: 93
+
+By Type:
+  General Practice: 548
+  Hospital: 112
+  Aboriginal Medical Service: 53
+  Aboriginal Medical Service, General Practice: 36
+  General Practice, Hospital: 26
+  Royal Flying Doctor Service: 9
+  ADF: 4
+  Aboriginal Medical Service, Hospital: 3
+  General Practice, Royal Flying Doctor Service: 1
+  ADF, General Practice: 1
+  Composite Post, Hospital: 1
+
+By MMM Level:
+  MMM 1: 39
+  MMM 2: 147
+  MMM 3: 192
+  MMM 4: 193
+  MMM 5: 226
+  MMM 6: 65
+  MMM 7: 57
+
+Sample post:
+{
+  "name": "Bass House Surgery",
+  "additionalDetails": "Organisation: The Australian College of Rural and Remote Medicine | FACRRM supervisor(s)",
+  "type": "General Practice",
+  "postcode": "7320",
+  "state": "TAS",
+  "city": "BURNIE",
+  "address": "83 Wilmot Street",
+  "associatedSites": [
+    "North West Private Hospital"
+  ],
+  "mmm": 3,
+  "trainingTypes": [
+    "Core Generalist Training"
+  ],
+  "rotations": [
+    "Rural and remote context",
+    "Primary care",
+    "Hospital in patient care",
+    "Emergency care"
+  ]
+}
+
+Done!
