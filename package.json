@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Interactive map of ACRRM training locations across Australia",
   "main": "index.js",
-  "homepage": "https://frasersmedical.github.io/acrrmTrainingMap",
+  "homepage": "https://fergaltt.github.io/acrrmTrainingMap",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
