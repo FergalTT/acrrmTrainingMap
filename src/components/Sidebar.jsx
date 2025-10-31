@@ -246,7 +246,7 @@ const Sidebar = ({ filters, setFilters, sites }) => {
         <p>
           <strong>Note:</strong> Dataset likely incomplete. Entries scraped from{' '}
           <a
-            href="https://www.acrrm.org.au/fellowship/training-towards-fellowship/discover-training-posts"
+            href="https://mycollege.acrrm.org.au/search/find-training-post"
             target="_blank"
             rel="noopener noreferrer"
           >
